@@ -1,1 +1,1 @@
-# Hello-Microverse
+This repo contains the code for Hello Microverse project. 
